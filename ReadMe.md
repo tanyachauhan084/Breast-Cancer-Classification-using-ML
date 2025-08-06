@@ -53,18 +53,11 @@ This project involves building and evaluating a Logistic Regression model on a l
 ➡️ The model is well-fitted and generalizes effectively.
 
 
-## How to run:
 
-1. Clone the repo:
+## 👩‍💻 Author
 
-   git clone https://github.com/tanyachauhan084/<your-repo-name>.git
-   cd <your-repo-name>
+**Tanya Chauhan**  
+📧 [tanyachauhan084@gmail.com](mailto:tanyachauhan084@gmail.com)  
+🔗 [GitHub](https://github.com/tanyachauhan084)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tanya-chauhan-99a5aa355/)
 
-2. Install dependencies:
-
-   pip install -r requirements.txt
-
-3. Run the notebook 
-
-
-## Author
